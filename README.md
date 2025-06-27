@@ -22,3 +22,5 @@ A lightweight shopping cart service in JavaScript that handles item quantity log
    git clone https://github.com/your-username/shop-cart-service.git
    cd shop-cart-service
    ```
+2. Install dependancies
+   npm install --save-dev jest
